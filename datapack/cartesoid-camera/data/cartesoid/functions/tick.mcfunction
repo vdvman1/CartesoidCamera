@@ -1,1 +1,2 @@
 execute as @a[scores={camera_click=1..}] at @s anchored eyes positioned ^ ^ ^ anchored feet run function cartesoid:click/coas
+execute as @a[scores={camera_play=1..}] at @s anchored eyes positioned ^ ^ ^ anchored feet run function cartesoid:click/play
