@@ -1,0 +1,1 @@
+give @s minecraft:carrot_on_a_stick{Damage:25,camera:1b,mode:0b,display:{Name:"{\"text\":\"Camera\",\"italic\":false}",Lore:["Mode: Photo"]}}
